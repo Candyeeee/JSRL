@@ -1,2 +1,13 @@
 # JSRL
 This is a code implemention of the JSRL method proposed in the manuscipt "Assessing Clinical Progression from Subjective Cognitive Decline to Mild Cognitive Impairment with Incomplete Multi-modal Neuroimages".
+# Code 
+Prerequisites used in our code (This is a reference. You also can use different versions of these prerequisetes.)
+python == 3.6
+tf == 1.15.0
+scikit-image 0.17.2
+sklearn
+scipy == 1.5.4
+numpy == 1.19.4
+# Dataset
+Two datasets, including a publicly available Alzheimer’s Disease Neuroimaging Initiative database (ADNI) dataset and a private dataset from the Chinese Longitudinal Aging Study (CLAS) are used in our work.
+You can download the ADNI dataset via this link:adni.loni.usc.edu
