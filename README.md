@@ -7,6 +7,7 @@ tf == 1.15.0
 scikit-image 0.17.2  
 scipy == 1.5.4  
 numpy == 1.19.4  
+
 code composition  
 main.py——including the training, test and eval for image synthesis functions  
 model.py——defining the network structures used in the JSRL  
